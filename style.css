@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+body{
+    margin:0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.font-style{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding:2%;
+}
+.font-style img{
+    width: 100%;
+}
+span{
+    color:darksalmon;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.button{
+    font-size: 15px;
+    padding: 10px 25px;
+    color:white;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, darksalmon,tomato);
+}
